@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="400"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Templates.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="88.169649"
+     inkscape:cy="201.55921"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="8"
+     guidetolerance="8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 370,20 L 470,20 C 470,20 470,40 470,70 C 470,100 450,120 420,120 C 390,120 370,100 370,70 C 370,40 370,20 370,20 z"
+       id="rect2385"
+       sodipodi:nodetypes="ccsssc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250,20 C 250,20 270,40 300,40 C 330,40 350,20 350,20 C 350,20 350,40 350,70 C 350,100 300,120 300,120 C 300,120 250,100 250,70 C 250,40 250,20 250,20 z"
+       id="path3161"
+       sodipodi:nodetypes="cscscsc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 250,130 C 250,130 270,150 300,150 C 330,150 350,130 350,130 C 350,130 350,150 350,180 C 350,210 300,230 300,230 C 300,230 300,230 300,230 C 310,230 320,240 320,250 C 320,260 310,270 300,270 C 290,270 280,260 280,250 C 280,240 290,230 300,230 C 300,230 300,230 300,230 C 300,230 250,210 250,180 C 250,150 250,130 250,130 z"
+       id="path3163"
+       sodipodi:nodetypes="cscscssssscsc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 130,170 C 130,170 150,190 180,190 C 210,190 230,170 230,170 C 230,170 230,190 230,220 C 230,250 180,270 180,270 C 180,270 180,270 180,270 C 190,270 200,280 200,290 C 200,300 190,310 180,310 C 170,310 160,300 160,290 C 160,280 170,270 180,270 C 180,270 180,270 180,270 C 180,270 130,250 130,220 C 130,190 130,170 130,170 z M 230,150 C 230,150 210,170 180,170 C 150,170 130,150 130,150 C 130,150 130,160 130,160 C 130,160 150,180 180,180 C 210,180 230,160 230,160 C 230,160 230,150 230,150 z"
+       id="path3165"
+       sodipodi:nodetypes="cscscssssscsccsccscc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 180,140 C 180,140 130,120 130,90 C 130,60 130,40 130,40 C 130,40 150,60 180,60 C 210,60 230,40 230,40 C 230,40 230,60 230,90 C 230,120 180,140 180,140 z M 230,20 C 230,20 210,40 180,40 C 150,40 130,20 130,20 C 130,20 130,30 130,30 C 130,30 150,50 180,50 C 210,50 230,30 230,30 C 230,30 230,20 230,20 z"
+       id="path3167"
+       sodipodi:nodetypes="cscscsccsccscc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 370,130 L 470,130 C 470,130 470,150 470,180 C 470,210 450,230 420,230 C 430,230 440,240 440,250 C 440,260 430,270 420,270 C 410,270 400,260 400,250 C 400,240 410,230 420,230 C 390,230 370,210 370,180 C 370,150 370,130 370,130 z"
+       id="path3169"
+       sodipodi:nodetypes="ccscssscsc" />
+    <path
+       style="fill:none;fill-opacity:0.45098039;fill-rule:evenodd;stroke:#000000;stroke-width:1.98425198;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 10,20 L 110,20 C 110,20 110,20 60,100 C 70,100 80,110 80,120 C 80,130 70,140 60,140 C 50,140 40,130 40,120 C 40,110 50,100 60,100 C 10,20 10,20 10,20 z"
+       id="path3171"
+       sodipodi:nodetypes="cccssscc" />
+  </g>
+</svg>
